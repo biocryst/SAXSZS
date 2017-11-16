@@ -3,8 +3,8 @@
 
 ## System requirements: 
 1. Python 2.7
-2. SciPy (tested with v1.0.0)
-3. NumPy (tested with v1.13.3)
+2. SciPy (tested with v1.0.0, any recent version should do)
+3. NumPy (tested with v1.13.3, any recent version should do)
 4. [IMP](https://integrativemodeling.org/) (optional, used to evaluate model-data fits, tested with v2.8.0)
 
 ## Installation guide:
